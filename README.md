@@ -40,42 +40,6 @@ Aplikasi ini memiliki beberapa fitur utama untuk manajemen inventaris:
 
 ---
 
-## 📂 Struktur Proyek
-
-/
-├── public/
-├── src/
-│   ├── assets/
-│   │   └── main.css       # Styling global & variabel warna
-│   ├── components/
-│   │   ├── ItemCard.vue   # Komponen kartu untuk setiap barang
-│   │   ├── ItemForm.vue   # Form untuk tambah/edit barang
-│   │   ├── LoadingSpinner.vue
-│   │   ├── Modal.vue      # Komponen pop-up untuk detail
-│   │   └── Navbar.vue     # Komponen navigasi atas
-│   ├── router/
-│   │   └── index.js       # Konfigurasi routing aplikasi
-│   ├── services/
-│   │   └── ItemService.js # Modul untuk interaksi dengan API
-│   ├── stores/
-│   │   └── itemStore.js   # Pinia store untuk state management
-│   ├── views/|
-|   |   |── AboutView.vue
-│   │   ├── AddItemView.vue
-│   │   ├── DashboardView.vue
-│   │   ├── EditItemView.vue
-│   │   └── ItemListView.vue
-│   ├── App.vue            # Komponen root aplikasi
-│   └── main.js            # Titik masuk aplikasi
-├── test/
-│   └── unit/
-│       └── itemStore.spec.js # File unit test untuk Pinia store
-├── db.json                # Database untuk JSON-Server
-├── package.json           # Dependensi dan skrip proyek
-└── vite.config.js         # Konfigurasi Vite
-
-
----
 
 ## ⚙️ Endpoint API (JSON-Server)
 
