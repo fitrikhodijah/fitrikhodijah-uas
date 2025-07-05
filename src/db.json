@@ -1,0 +1,40 @@
+{
+    "items": [
+      {
+        "id": "a1b2-c3d4-e5f6-g7h8",
+        "name": "Buku Tulis Sinar Dunia (Isi 58)",
+        "quantity": 50,
+        "price": 5500
+      },
+      {
+        "id": "h8g7-f6e5-d4c3-b2a1",
+        "name": "Pulpen Pilot G2 0.5mm Hitam",
+        "quantity": 125,
+        "price": 3000
+      },
+      {
+        "id": "i9j0-k1l2-m3n4-o5p6",
+        "name": "Kertas A4 PaperOne 75gsm",
+        "quantity": 8,
+        "price": 52000
+      },
+      {
+        "id": "p6o5-n4m3-l2k1-j0i9",
+        "name": "Spidol Whiteboard Snowman Hitam",
+        "quantity": 35,
+        "price": 8000
+      },
+      {
+        "id": "q7r8-s9t0-u1v2-w3x4",
+        "name": "Stapler Joyko HD-10",
+        "quantity": 22,
+        "price": 15000
+      },
+      {
+        "id": "x4w3-v2u1-t0s9-r8q7",
+        "name": "Isi Staples No. 10",
+        "quantity": 5,
+        "price": 2500
+      }
+    ]
+  }
